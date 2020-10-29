@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76293f04-ac2b-4130-934e-2b14399178af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/typescript-compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/NotoSansMonoCJKjp-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/TableTestApp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/TextTestApp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/atoms/CondensableText/CondensableText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/atoms/CondensableText/condensableText.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/atoms/CondensableText/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/mario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/sourceHanSans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/svg/icon-a.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/svg/icon-b.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/svg/icon-c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/svg/icon-d.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/tui-image-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/tui-image-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/tui-image-editor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../squre-app-sandbox/src/dist/tui-image-editor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/@types/react-scale-text.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/D3Graph.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/D3Graph.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/D3GraphContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/D3GraphContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/Theme/Theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/Theme/Theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/atoms/Icon/Icon.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/atoms/Icon/Icon.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react-typescript-sandbox/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../react-typescript-sandbox/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../test/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../test/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jYT6n5kf9htaE4EORCEwO0djEm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../GKAssistantServer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../GenKan/genkan-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../GenkanAnalyze" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../GenkanServer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../LGTM/lgtm-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../SlickTutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-practice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-practice/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-test-from-seed" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../polynote" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76293f04-ac2b-4130-934e-2b14399178af" name="Default Changelist" comment="" />
+      <created>1603979853019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603979853019</updated>
+      <workItem from="1603979855229" duration="1469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
